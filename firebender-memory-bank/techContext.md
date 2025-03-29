@@ -15,6 +15,7 @@
 - dependency injection: Kodein https://kosi-libs.org/kodein/7.25/index.html
 - navigation: voyager https://voyager.adriel.cafe/
 - rich editor: Compose Rich Editor https://mohamedrejeb.github.io/compose-rich-editor/
+- local preferences: DataStore https://developer.android.com/kotlin/multiplatform/datastore
 
 ## Doc Comments
 - Document code elements such as classes, methods, functions, and variables

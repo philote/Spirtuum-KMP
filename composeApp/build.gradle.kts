@@ -49,6 +49,8 @@ kotlin {
 
             implementation(libs.kotlinx.datetime)
             implementation(libs.voyager.navigator)
+            api(libs.datastore)
+            api(libs.datastore.preferences)
         }
         desktopMain.dependencies {
             implementation(compose.desktop.currentOs)
