@@ -7,7 +7,6 @@
 - Primary language: Kotlin & Kotlin Multiplatform
 - UI: Compose Multiplatform https://www.jetbrains.com/compose-multiplatform/
 - Networking: Ktor https://ktor.io/
-  - Maybe: Ktorfit https://github.com/Foso/Ktorfit
 - Image Catching: landscapist https://skydoves.github.io/landscapist/
 - Local storage: Room 2.7.0-rc03 https://developer.android.com/kotlin/multiplatform/room
   - or sqldelight https://github.com/sqldelight/sqldelight
